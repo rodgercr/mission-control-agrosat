@@ -11,9 +11,10 @@ Sistema de monitoramento operacional de satélite de sensoriamento agrícola com
 
 | Nome | RM | Turma |
 |------|----|-------|
-| Rodger Costa | RM000000 | 1CCPF |
+| Kenichi Caio Yamamoto | RM 569815 | 1CCPK |
+| Rodger Costa Rios | RM 571438 | 1CCPK |
 
-Modalidade: **Individual**
+Modalidade: **DUPLA**
 
 ---
 
