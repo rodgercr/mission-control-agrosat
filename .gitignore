@@ -1,6 +1,9 @@
 # Credenciais — NUNCA versionar
 .env
 
+# Claude Code (configurações locais geradas automaticamente)
+.claude/
+
 # Cache Python
 __pycache__/
 *.pyc

@@ -11,10 +11,10 @@ Sistema de monitoramento operacional de satélite de sensoriamento agrícola com
 
 | Nome | RM | Turma |
 |------|----|-------|
-| Kenichi Caio Yamamoto | RM 569815 | 1CCPK |
-| Rodger Costa Rios | RM 571438 | 1CCPK |
+| Kenichi Caio Yamamoto | RM569815 | 1CCPK |
+| Rodger Costa Rios | RM571438 | 1CCPK |
 
-Modalidade: **DUPLA**
+Modalidade: **Dupla**
 
 ---
 
@@ -55,7 +55,7 @@ A IA (ARIA — Agri-Sat Response Intelligence Assistant) responde como analista 
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/rodgercr/mission-control-agrosat
+git clone https://github.com/rodgercr/mission-control-agrosat.git
 cd mission-control-agrosat
 
 # 2. Crie e ative o ambiente virtual
@@ -92,8 +92,6 @@ python main.py
 ---
 
 ## Demonstração
-
-> ⚠️ **Screenshots a adicionar após execução:** capture as telas abaixo e salve em `assets/`
 
 ![Banner e status nominal da missão](assets/screenshot_banner.png)
 ![Análise da IA em cenário de alerta crítico](assets/screenshot_analise.png)
@@ -167,9 +165,9 @@ Se o AgroSat-1 operar 100% saudável por 1 ano:
 
 ## Vídeo de demonstração
 
-> 📹 **A adicionar após gravação**
+🎬 [Assistir demonstração no YouTube](https://youtu.be/e3WxhNeYzBI)
 
-Configurado como "Não listado" no YouTube.
+> Configurado como "Não listado" no YouTube.
 
 ---
 
