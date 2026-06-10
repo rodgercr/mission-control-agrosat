@@ -55,7 +55,7 @@ A IA (ARIA — Agri-Sat Response Intelligence Assistant) responde como analista 
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/rodgercosta/mission-control-agrosat.git
+git clone https://github.com/rodgercr/mission-control-agrosat
 cd mission-control-agrosat
 
 # 2. Crie e ative o ambiente virtual
